@@ -9,6 +9,6 @@ var hash = window.location.hash.substr(1);
 
       setTimeout(function(){
         $("input[value='Rate']").click();
-      }, 7000);
+      }, 5000);
 
 });
